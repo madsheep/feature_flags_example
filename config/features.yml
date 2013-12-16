@@ -1,0 +1,9 @@
+test:
+  killing_dogs: true
+  users: false
+  send_money: false
+
+development:
+  killing_dogs: true
+  users: true
+  send_money: true
